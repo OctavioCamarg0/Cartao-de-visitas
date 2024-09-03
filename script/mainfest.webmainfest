@@ -1,0 +1,20 @@
+{
+    "name": "Cartão Pessoal Octávio",
+    "short_name": "Cartão",
+    "description": "Aplicativo de referência dos dados profissionais de Octávio Camargo Cavalcante.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "icons": [
+      {
+        "src": "/img/perfil-usuario.jpg",
+        "sizes": "1200x800",
+        "type": "image/jpg"
+      }
+    ],
+    "lang": "pt-BR"
+  }
+  
