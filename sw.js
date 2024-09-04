@@ -3,9 +3,9 @@ const cacheName = 'Cartao-pessoal';
 const filesToCache = [
     './',
     './index.html',
-    './css/style.css',
+    './style.css',
     './img/perfil-usuario.jpg',
-    './script/main.js',
+    './script/main.js'
 ]
 
 //instalar o Service Worker e armazenar em cache
